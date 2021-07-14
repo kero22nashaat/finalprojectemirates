@@ -1,0 +1,29 @@
+
+@media (min-width: 1920px) {
+
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+.header-middle-area .header-info {
+    width: 33.33%;
+}
+.header-middle-area .header-info-text span {
+    font-size: 13px;
+}
+.header-middle-area .header-icon {
+    margin-right: 7px;
+    margin-left: 5px;
+} 
+.banner-content h4 {
+    font-size: 20px;
+    max-width: 490px;
+}    
+.banner-contact span {
+    font-size: 16px;
+}    
+.service-content h4 {
+    font-size: 15px;
+}    
+    
